@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523026870139.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1644922180",
+    "id" : "50D5D237",
+    "lastKnownWriteTime" : 1523026904,
+    "last_content_update" : 1523026904312,
+    "path" : "~/Documents/parlMICE/vignettes/parlmice.Rmd",
+    "project_path" : "vignettes/parlmice.Rmd",
+    "properties" : {
+        "cursorPosition" : "244,0",
+        "scrollLine" : "223"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

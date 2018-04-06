@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523026798099.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2032204297",
+    "id" : "679EEBD6",
+    "lastKnownWriteTime" : 1523027111,
+    "last_content_update" : 1523027111010,
+    "path" : "~/Documents/parlMICE/R/parlMICE.R",
+    "project_path" : "R/parlMICE.R",
+    "properties" : {
+        "cursorPosition" : "63,62",
+        "scrollLine" : "59",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
